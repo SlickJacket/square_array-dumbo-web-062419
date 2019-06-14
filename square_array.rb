@@ -1,5 +1,5 @@
 def square_array(array)
   array.each do | i |
-    array = i * i
+    puts array = i * i
   end
 end
