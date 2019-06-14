@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do | i |
-    array.New(i * i)
+  array.each do | array |
+  array * array
   end
 end
